@@ -1,5 +1,7 @@
 # Sample Python Code
 def add_numbers(a, b):
+    print("Adding numbers...")
+    print("Added numbers:", a, b)
     return a + b
 
 # Print a greeting
