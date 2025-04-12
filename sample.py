@@ -1,4 +1,5 @@
-# Sample Python Code
+#Sample Python Code
+#import pdb; pdb.set_trace()  # Set a breakpoint here
 def add_numbers(a, b):
     print("Adding numbers...")
     print("Added numbers:", a, b)
