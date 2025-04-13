@@ -8,3 +8,5 @@ SSSSSSSSSSS 123
 Branch 1
 
 line 10 is cherry
+commit -1
+commit -2
