@@ -1,2 +1,5 @@
 /soni
 /.venv
+*.ipynb
+/.vscode
+settings.json
