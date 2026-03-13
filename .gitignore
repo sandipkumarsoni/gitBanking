@@ -3,3 +3,4 @@
 *.ipynb
 /.vscode
 settings.json
+__pycache__/*

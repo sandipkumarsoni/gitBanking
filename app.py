@@ -9,6 +9,12 @@ def create_app():
             "message": "Flask app running",
             "owner": "Sandip kumar soni"
         })
+    @app.route("/home")
+    def home_new():
+        return jsonify({
+            "message": "Flask app running",
+            "owner": "In Home"
+        })    
 
     return app
 
